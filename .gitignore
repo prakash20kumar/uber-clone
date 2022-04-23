@@ -32,3 +32,9 @@ yarn-error.log*
 .vercel
 
 .vercel
+
+# sanity
+/studio/node_modules/
+/studio/logs/
+/studio/coverage/
+/studio/dist/
