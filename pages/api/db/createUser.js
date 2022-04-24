@@ -1,6 +1,5 @@
 import { client } from '../../../lib/sanity'
 
-
 const createUserInSanity = async (req, res) => {
   try {
     const userDoc = {

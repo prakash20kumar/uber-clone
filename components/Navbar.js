@@ -34,6 +34,7 @@ const Navbar = () => {
           <Image
             className={style.userImage}
             src={avatar}
+            alt="avatar"
             width={40}
             height={40}
           />
